@@ -393,6 +393,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/normalize-wheel@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "@types/normalize-wheel@npm:1.0.4"
+  checksum: d51bf3cd59c730b91b6b04e99179a3c861b9bd89ba903035034496eabec1d28dba38e0d99f0b9275552f81179f6aced34eea46146590080ac84a26fc2eca806b
+  languageName: node
+  linkType: hard
+
 "@types/qs@npm:*":
   version: 6.9.7
   resolution: "@types/qs@npm:6.9.7"
@@ -804,6 +811,7 @@ __metadata:
   resolution: "alxoilerplate@workspace:."
   dependencies:
     "@types/express": ^4.17.17
+    "@types/normalize-wheel": ^1.0.4
     clean-webpack-plugin: ^4.0.0
     concurrently: ^8.2.0
     css-loader: ^6.8.1

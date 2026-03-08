@@ -11,6 +11,7 @@
   "author": "Alex Ownejazayeri",
   "license": "MIT",
   "devDependencies": {
+    "@types/normalize-wheel": "^1.0.4",
     "clean-webpack-plugin": "^4.0.0",
     "concurrently": "^8.2.0",
     "css-loader": "^6.8.1",
